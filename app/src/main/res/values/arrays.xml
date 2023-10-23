@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="count_types">
+        <item>Žodžiai</item>
+        <item>Skyrybos ženklai</item>
+        <item>Skyrybos ženklai ir tarpai</item>
+    </string-array>
+</resources>
