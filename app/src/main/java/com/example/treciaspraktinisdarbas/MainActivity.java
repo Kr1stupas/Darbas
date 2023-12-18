@@ -96,7 +96,7 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
             result.setText(finalResult);
         }
     }
-    String getResult(String data){
+    public String getResult(String data){
         try {
             Context context = Context.enter();
             context.setOptimizationLevel(-1);
